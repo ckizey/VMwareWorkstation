@@ -158,8 +158,8 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
 # VMwareWorkstation 15
 
 * 15.5.7
- *
- * https://github.com/ckizey/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.7-17171714.exe
+  *
+  * https://github.com/ckizey/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.7-17171714.exe
 * 15.5.6
   * 
   * https://github.com/201853910/VMwareWorkstation/releases/download/15.0/VMware-workstation-full-15.5.6-16341506.exe
